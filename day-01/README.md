@@ -274,8 +274,9 @@ python app.py
 
 | Ollama Running | AI Response |
 |----------------|-------------|
-| ![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/0fe30d1ed5c959c56d47196806197e26289d3b86/day-01/SC/Screenshot%202026-05-19%20222025.png) | ![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/aa808378a0412fa87209c3ad6bde2d72e2abd6fd/day-01/SC/Screenshot%202026-05-17%20100807.png) |
+|![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/22605882512f630ee6a3f5c3ec83821772e0694c/day-01/SC/Screenshot%202026-05-19%20222132.png)  | ![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/0fe30d1ed5c959c56d47196806197e26289d3b86/day-01/SC/Screenshot%202026-05-19%20222025.png) |
 
+![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/22605882512f630ee6a3f5c3ec83821772e0694c/day-01/SC/Screenshot%202026-05-17%20100807.png)
 ---
 
 # 🎯 Learning Outcomes
