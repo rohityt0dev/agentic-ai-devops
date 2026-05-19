@@ -1,26 +1,36 @@
-Q1 — What is Agentic AI?
+# 🤖 Q1 — What is Agentic AI?
 
-AI systems capable of autonomous decision-making, tool usage, and multi-step reasoning.
+> Agentic AI refers to AI systems capable of autonomous decision-making, tool usage, and multi-step reasoning.
+---
 
-Q2 — What is Ollama?
+# 🦙 Q2 — What is Ollama?
 
-A local LLM runtime used to run AI models offline.
+> Ollama is a local LLM runtime used to run Large Language Models (LLMs) offline on your machine.
 
-Q3 — Why Use Local LLMs?
 
-Benefits:
+## 📦 Supported Models
 
-Privacy
-Offline access
-Lower cost
-Faster experimentation
+- Llama 3
+- Mistral
+- Gemma
+- DeepSeek
+- Phi
 
-Q4 — What is LLMOps?
+## ⚡ Why Developers Use Ollama
 
-LLMOps manages:
+- Faster local testing
+- Better privacy
+- No API cost
+- Easy experimentation
 
-LLM deployment
-Monitoring
-Versioning
-Scaling
-Observability
+---
+
+# 🏠 Q3 — Why Use Local LLMs?
+> Ollama is a local LLM runtime used to run Large Language Models (LLMs) offline on your machine.
+---
+
+# ⚙️ Q4 — What is LLMOps?
+
+> LLMOps (Large Language Model Operations) is the practice of deploying, managing, monitoring, and scaling LLM applications in production.
+
+---
