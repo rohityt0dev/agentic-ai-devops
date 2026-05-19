@@ -170,7 +170,7 @@ git --version
 ```bash
 ollama --version
 ```
-
+![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/a2ab47739e0b0be89eec2d900588fa6fcab1a792/day-01/SC/Screenshot%202026-05-16%20174339.png)
 ---
 
 # 🚀 Run Your First Local LLM
@@ -266,7 +266,7 @@ python app.py
 ---
 
 # 🔄 AI Infrastructure Flow
-![alt]()
+![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/608cc5733d175957a052de0e54c484640bebf2f8/day-01/SC/ChatGPT%20Image%20May%2019%2C%202026%2C%2006_48_38%20PM.png)
 
 ---
 
