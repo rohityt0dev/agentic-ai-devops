@@ -170,7 +170,7 @@ git --version
 ```bash
 ollama --version
 ```
-
+![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/a2ab47739e0b0be89eec2d900588fa6fcab1a792/day-01/SC/Screenshot%202026-05-16%20174339.png)
 ---
 
 # 🚀 Run Your First Local LLM
@@ -266,24 +266,15 @@ python app.py
 ---
 
 # 🔄 AI Infrastructure Flow
-![alt]()
+![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/608cc5733d175957a052de0e54c484640bebf2f8/day-01/SC/ChatGPT%20Image%20May%2019%2C%202026%2C%2006_48_38%20PM.png)
 
 ---
 
 # 📸 Screenshots
 
-Add screenshots inside the `screenshots/` folder.
-
-```bash
-screenshots/
-├── ollama-running.png
-├── ai-response.png
-└── project-setup.png
-```
-
 | Ollama Running | AI Response |
 |----------------|-------------|
-| Add Screenshot | Add Screenshot |
+| ![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/aa808378a0412fa87209c3ad6bde2d72e2abd6fd/day-01/SC/Screenshot%202026-05-19%20222132.png) | ![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/aa808378a0412fa87209c3ad6bde2d72e2abd6fd/day-01/SC/Screenshot%202026-05-17%20100807.png) |
 
 ---
 
