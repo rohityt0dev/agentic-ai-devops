@@ -272,18 +272,9 @@ python app.py
 
 # 📸 Screenshots
 
-Add screenshots inside the `screenshots/` folder.
-
-```bash
-screenshots/
-├── ollama-running.png
-├── ai-response.png
-└── project-setup.png
-```
-
 | Ollama Running | AI Response |
 |----------------|-------------|
-| Add Screenshot | Add Screenshot |
+| ![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/aa808378a0412fa87209c3ad6bde2d72e2abd6fd/day-01/SC/Screenshot%202026-05-19%20222132.png) | ![alt](https://github.com/rohityt0dev/agentic-ai-devops/blob/aa808378a0412fa87209c3ad6bde2d72e2abd6fd/day-01/SC/Screenshot%202026-05-17%20100807.png) |
 
 ---
 
