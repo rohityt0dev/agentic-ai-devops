@@ -304,4 +304,10 @@ By completing this project, you will understand:
 
 # 📚 Next Step
 
-➡️ Day 2: Understanding LLMs, Tokens, Embeddings, and Prompt Engineering
+➡️ Day 2 :
+
+- Understand AI agents deeply
+- Learn tool calling
+- Build an autonomous DevOps agent
+- Add memory + reasoning
+- Create your first real AI automation workflow
