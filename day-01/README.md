@@ -230,12 +230,12 @@ pip install openai langchain ollama rich
 
 ## Create `app.py`
 
-```python
-from langchain_community.llms import Ollama
+```bash
+from langchain_ollama import OllamaLLM
 
-llm = Ollama(model="llama3")
+llm = OllamaLLM(model="phi3")
 
-response = llm.invoke("Explain Docker in simple words")
+response = llm.invoke("Explain Git in simple words")
 
 print("\nAI Response:\n")
 print(response)
@@ -307,42 +307,6 @@ By completing this project, you will understand:
 - DevOps & Cloud Enthusiast
 - Learning AI Infrastructure Engineering
 - Exploring LLMOps, Kubernetes, and AI Automation
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
-```text
-MIT License
-
-Copyright (c) 2026 Rohit Tambadkar
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files...
-```
-
----
-
-# ⭐ Support
-
-If you found this project helpful:
-
-- ⭐ Star this repository
-- 🍴 Fork the project
-- 🛠️ Build your own AI DevOps projects
-
----
-
-# 🔥 Future Improvements
-
-- Add AI Agents
-- Add Multi-Agent Systems
-- Integrate Kubernetes
-- Add AI Observability
-- Build AI-powered CI/CD pipelines
-- Deploy AI workloads on cloud infrastructure
 
 ---
 
